@@ -1,0 +1,3 @@
+Trizzos sedang belajar Git.
+Trizzos sudah lumayan paham Git
+Teks ini merupakan perubahan di cabang1
